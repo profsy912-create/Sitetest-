@@ -1,0 +1,22 @@
+# Word/Office lock files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots dropped in the project folder
+Capture d'écran*.png
+Capture d’écran*.png
+Screenshot*.png
+
+# Images déposées à la racine par erreur
+/*.jpg
+/*.jpeg
+/*.png
+
+# Archives (polices, exports, etc.)
+*.zip
+
+# Archive brute de reportages photo/vidéo (non optimisée, non servie sur le site)
+assets/images/newbase/
